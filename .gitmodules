@@ -1,0 +1,4 @@
+[submodule "hugo-files/public"]
+	path = hugo-files/public
+	url = https://github.com/kmalloy24/kylemalloy.com-deploy.git
+	branch = main

@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = " "
+logo = "img/logo.webp"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Kyle Malloy"
+  image = "img/headshot.webp"
+  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  links = [
+    { twitter = "https://twitter.com/burufugu" },
+    { mastodon = "https://masto.ai/@blowfish" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
