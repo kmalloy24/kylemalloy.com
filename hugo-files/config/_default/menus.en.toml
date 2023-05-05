@@ -11,65 +11,85 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "Hire Me"
+  title = "Hire Me"
   weight = 10
 
 [[main]]
-  name = "Examples"
-  weight = 20
-
-[[main]]
-  name = "Recipes"
-  parent = "Examples"
-  pageRef = "guides"
+  name = "How It Works"
+  title = "How It Works"
+  parent = "Hire Me"
+  pageRef = "how-it-works"
   weight = 10
 
 [[main]]
-  name = "Samples"
-  parent = "Examples"
-  pageRef = "samples"
+  name = "Resume"
+  title = "Resume"
+  parent = "Hire Me"
+  pageRef = "resume"
   weight = 20
 
 [[main]]
-  name = "Showcase"
-  parent = "Examples"
-  pageRef = "examples"
+  name = "Availability"
+  title = "Availability"
+  parent = "Hire Me"
+  pageRef = "availability"
+  weight = 30
+  
+
+[[main]]
+  name = "Client Docs"
+  title = "Client Docs"
+  parent = "Hire Me"
+  url = "https://invited-tail-8f7.notion.site/Client-Docs-665a24baf6a149efbeb5814d6aca8ee4"
   weight = 30
 
 [[main]]
-  name = "Users"
-  pageRef = "users"
+  name = "FAQ"
+  title = "FAQ"
+  parent = "Hire Me"
+  pageRef = "faq"
   weight = 40
 
 [[main]]
-  name = "Merch"
-  url = "http://tee.pub/lic/qwSlWVBL5zc"
+  name = "👷🏼‍♂️ About"
+  title = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "🎓 Tutorials"
+  title = "Tutorials"
+  pageRef = "blog"
+  weight = 30
+
+[[main]]
+  name = "📝 Blog"
+  title = "Blog"
+  pageRef = "blog"
+  weight = 40
+
+[[main]]
+  name = "📰 Newsletter"
+  title = "Newsletter"
+  pageRef = "newsletter"
   weight = 50
 
-#[[main]]
-#  name = "Test"
-#  pageRef = "pagTest"
-#  weight = 1000
-
 [[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
+  identifier = "civsoft"
+  name = "CivSoft"
+  pre = "civsoft"
+  url = "https://civsoft.app/"
   weight = 60
 
-[[main]]
-  identifier = "mastodon"
-  pre = "mastodon"
-  url = "https://masto.ai/@blowfish"
-  weight = 70
+# -- Subnav Menu --
+# Displayed below main
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 80
-
+[[subnavigation]]
+  name = "Licensed in MA #56995"
+  title = "Professional Engineer License, P.E."
+  url = "https://elicensing21.mass.gov/CitizenAccess/GeneralProperty/LicenseeDetail.aspx?LicenseeNumber=56995&LicenseeType=Civil+Engineer"
+  weight = 10
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -81,6 +101,17 @@
    weight = 10
 
  [[footer]]
-   name = "Authors"
-   pageRef = "authors"
+   name = "Categories"
+   pageRef = "categories"
    weight = 20
+
+ [[footer]]
+   name = "Contact"
+   pageRef = "contact"
+   weight = 30
+
+
+
+
+
+

@@ -13,12 +13,14 @@ description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Kyle Malloy"
+  name = "Kyle Malloy, PE"
   image = "img/headshot.webp"
-  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  headline = "Civil Engineer" 
+  bio = "Civil Engineer"
   links = [
-    { twitter = "https://twitter.com/burufugu" },
-    { mastodon = "https://masto.ai/@blowfish" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { email = "mailto:kmalloy24@gmail.com" },
+    { linkedin = "https://linkedin.com/in/malloykyle" },
+    { twitter = "https://twitter.com/kylemalloype" },
+    { mastodon = "https://mastodon.social/@kylemalloy" },
+    { github = "https://github.com/kmalloy24" },
   ]
