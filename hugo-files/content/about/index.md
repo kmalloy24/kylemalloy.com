@@ -1,8 +1,9 @@
 ---
 title: "About Me"
-description: "Welcome to my blog!"
+description: "About"
 slug: "about"
-series_order: 2
+
+showPagination : false
 showLikes: false
 showViews: false
 showReadingTime: false
@@ -10,6 +11,8 @@ showEdit: false
 showAuthor: false
 sharingLinks: false
 ---
+![image](about.webp)
+
 ## insert pic of bernie, chan and i
 When I'm not doing freelance work, I'm working on practical training courses and developing software for civil engineers as well as writing about the intersections between civil engineering and programming. 
 
@@ -46,6 +49,8 @@ We are currently expanding our programming skills in order to build web apps tha
 
 ## Contact
 --------------
-<a href="tel:781-353-1952">781-353-1952</a>
-
+### Email
 <a href="mailto:kyle@malloy.dev">kyle@malloy.dev</a>
+
+### Phone
+<a href="tel:781-353-1952">781-353-1952</a>

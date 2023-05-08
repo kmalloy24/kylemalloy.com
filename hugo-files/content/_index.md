@@ -8,7 +8,7 @@ description: "Kyle Malloy, PE Freelance Civil Engineer"
   tag=h5
   speed=35
 >}}
-I'm currently accepting new work.
+I'm currently accepting part-time work.
 {{< /typeit >}}
 {{< /alert >}}
 
@@ -21,10 +21,16 @@ I'm not currently accepting new work.
 {{< /typeit >}}
 {{< /alert >}} -->
 
-I work with private firms and public agencies to provide civil engineering design services for roadway and land development projects 👷🏼‍♂️
+Hi 👋🏼 my name is Kyle 👷🏼‍♂️
 
-If you are interested in working together you can find more info [here]({{< ref "hire-me" >}}), and schedule a time to meet 👇🏼
+I have extensive experience as a civil engineer using AutoCAD Civil 3D for design in both land development and roadway projects. I've been through each stage of the project lifecycle many times over, and pair my technical skills with excellent organizational and communication skills.
+
+I'm currently working on building software for civil engineers at {{< icon "civsoft" >}}[CivSoft](civsoft.app) -- which I co-founded with my wife, Chandler.
+
+If you are interested in working together please schedule a time to meet here 👇🏼
 
 {{< button href="https://calendly.com/kyle-malloy/meeting" target="_self" >}}
 📆 Schedule a Meeting
 {{< /button >}}
+
+I look forward to hearing from you! 

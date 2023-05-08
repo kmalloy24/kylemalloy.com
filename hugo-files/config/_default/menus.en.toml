@@ -11,76 +11,23 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Hire Me"
-  title = "Hire Me"
-  weight = 10
-
-[[main]]
-  name = "How It Works"
-  title = "How It Works"
-  parent = "Hire Me"
-  pageRef = "how-it-works"
-  weight = 10
-
-[[main]]
   name = "Resume"
   title = "Resume"
-  parent = "Hire Me"
   pageRef = "resume"
-  weight = 20
+  weight = 10
 
 [[main]]
-  name = "Availability"
-  title = "Availability"
-  parent = "Hire Me"
-  pageRef = "availability"
-  weight = 30
-  
-
-[[main]]
-  name = "Client Docs"
-  title = "Client Docs"
-  parent = "Hire Me"
-  url = "https://invited-tail-8f7.notion.site/Client-Docs-665a24baf6a149efbeb5814d6aca8ee4"
-  weight = 30
-
-[[main]]
-  name = "FAQ"
-  title = "FAQ"
-  parent = "Hire Me"
-  pageRef = "faq"
-  weight = 40
-
-[[main]]
-  name = "👷🏼‍♂️ About"
+  name = "About"
   title = "About"
   pageRef = "about"
   weight = 20
-
-[[main]]
-  name = "🎓 Tutorials"
-  title = "Tutorials"
-  pageRef = "blog"
-  weight = 30
-
-[[main]]
-  name = "📝 Blog"
-  title = "Blog"
-  pageRef = "blog"
-  weight = 40
-
-[[main]]
-  name = "📰 Newsletter"
-  title = "Newsletter"
-  pageRef = "newsletter"
-  weight = 50
 
 [[main]]
   identifier = "civsoft"
   name = "CivSoft"
   pre = "civsoft"
   url = "https://civsoft.app/"
-  weight = 60
+  weight = 30
 
 # -- Subnav Menu --
 # Displayed below main
@@ -95,15 +42,15 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+#  [[footer]]
+#    name = "Tags"
+#    pageRef = "tags"
+#    weight = 10
 
- [[footer]]
-   name = "Categories"
-   pageRef = "categories"
-   weight = 20
+#  [[footer]]
+#    name = "Categories"
+#    pageRef = "categories"
+#    weight = 20
 
  [[footer]]
    name = "Contact"

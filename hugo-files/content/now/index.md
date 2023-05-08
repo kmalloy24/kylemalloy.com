@@ -1,8 +1,9 @@
 ---
 title: "Now"
-description: "Welcome to my blog!"
+description: "Now"
 slug: "now"
-series_order: 2
+
+showPagination : false
 showLikes: false
 showViews: false
 showReadingTime: false

@@ -1,0 +1,9 @@
+{
+    "name": "Kyle Malloy",
+    "image" : "img/avatar.webp",
+    "bio": "Civil Engineer",
+    "social": [
+        { "email": "mailto:kyle@malloy.dev" },
+        { "linkedin": "https://linkedin.com/in/malloykyle" }
+    ]
+}

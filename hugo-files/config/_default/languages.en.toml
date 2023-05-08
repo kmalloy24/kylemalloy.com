@@ -5,22 +5,22 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = " "
+title = ""
 logo = "img/logo.webp"
-description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "Kyle Malloy, PE"
+copyright = "© 2023 Kyle Malloy"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Kyle Malloy, PE"
-  image = "img/headshot.webp"
+  image = "img/avatar.webp"
   headline = "Civil Engineer" 
   bio = "Civil Engineer"
   links = [
-    { email = "mailto:kmalloy24@gmail.com" },
+    { email = "mailto:kyle@malloy.dev" },
     { linkedin = "https://linkedin.com/in/malloykyle" },
-    { twitter = "https://twitter.com/kylemalloype" },
-    { mastodon = "https://mastodon.social/@kylemalloy" },
-    { github = "https://github.com/kmalloy24" },
+    # { twitter = "https://twitter.com/kylemalloype" },
+    # { mastodon = "https://mastodon.social/@kylemalloy" },
+    # { github = "https://github.com/kmalloy24" },
   ]
