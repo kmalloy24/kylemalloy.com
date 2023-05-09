@@ -17,17 +17,29 @@
   weight = 10
 
 [[main]]
+  name = "Contact"
+  title = "Contact"
+  pageRef = "Contact"
+  weight = 20
+
+[[main]]
   name = "About"
   title = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
+
+[[main]]
+  name = "Now"
+  title = "Now"
+  pageRef = "now"
+  weight = 40
 
 [[main]]
   identifier = "civsoft"
   name = "CivSoft"
   pre = "civsoft"
   url = "https://civsoft.app/"
-  weight = 30
+  weight = 50
 
 # -- Subnav Menu --
 # Displayed below main
@@ -52,10 +64,6 @@
 #    pageRef = "categories"
 #    weight = 20
 
- [[footer]]
-   name = "Contact"
-   pageRef = "contact"
-   weight = 30
 
 
 

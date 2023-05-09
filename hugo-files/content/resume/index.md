@@ -41,15 +41,17 @@ showHero: false
 <!--KM -->
 
 <!-- CIVSOFT -->
-{{< timelineItem icon="civsoft" header="CivSoft" badge="Current" subheader="CTO, Co-Founder" >}}
+{{< timelineItem icon="civsoft-w" header="CivSoft" badge="Current" subheader="CTO, Co-Founder" >}}
 {{< icon "location-dot" >}} Remote <br> <br>
-Founded with my wife, Chandler, we are developing software solutions to improve workflows and give civil engineers more time back in their day.
+Founded with my wife, Chandler, we are developing software that provides value by improving workflows and giving civil engineers more time back in their day.
 {{< /timelineItem >}}
 <!-- CIVSOFT -->
 
 <!-- VAN -->
-{{< timelineItem icon="van" header="Extended Honeymoon" badge="April 2022 - April 2023" >}}
-Took a year off to travel the country with my wife and develop an off-grid property in Far West Texas 🏜️
+{{< timelineItem icon="van">}}
+<h2>Extended Honeymoon</h2>
+<h4>April 2022 - April 2023 · 1 yr</h4>
+Took a year off to travel the country with my wife and develop an off-grid property in Far West Texas 🏜️ <br>
 <h3>Vanlife</h3>
 {{< gallery >}}
   <img src="gallery/01.webp" class="grid-w33" />
@@ -59,13 +61,12 @@ Took a year off to travel the country with my wife and develop an off-grid prope
   <img src="gallery/05.webp" class="grid-w33" />
 {{< /gallery >}}
 <ul>
-  <li>🌎 2 countries, 12 states</li>
-  <li>🏞️ 20 national parks</li>
-  <li>🪧 97 trailheads 🥾 200 miles hiked 🗻 10,000' elev climbed</li>
-  <li>🚐 15,000 miles driven</li>
+  <li>🌎 2 countries, 11 states</li>
+  <li>🏞️ 23 national parks</li>
+  <li>🥾 71 trails</li>
+  <li>🚐 12,000 miles</li>
   <li>🐶 1 dog adopted</li>
 </ul>
-
 <h3>Off-Grid</h3>
 {{< gallery >}}
   <img src="gallery/texas.webp"/>
@@ -87,16 +88,13 @@ Took a year off to travel the country with my wife and develop an off-grid prope
 {{< timelineItem icon="work">}}
 <img src="hsh.png" class="customEntitityLogo"/>
 <h2>Howard Stein Hudson</h2>
-<h4>2012-1021 (4yr, 3mo)</h4>
-{{< icon "location-dot" >}} Boston, MA (2018-2020) <br> 
+<h4>Oct 2018 - Current · 4 yrs 8 mos</h4>
 {{< icon "location-dot" >}} Remote (2020-2022)
-<h3>Civil Engineer</h3>
-<h3>Staff Civil Engineer (2018-2020)</h3>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+{{< icon "location-dot" >}} Boston, MA (2018-2020) <br> 
+<h3>Civil Engineer, Part-Time (Apr 2022 - Current)</h3>
+Working remotely on a task-by-task basis.<br>
+<h3>Civil Engineer (Oct 2018 - Apr 2022)</h3>
+As a roadway design engineer in the public Infrastructure department, I developed plans, performed technical analysis/documentation, and cost estimates, for private and municipal clients. Depending on the project, designs considered accommodations for vehicular, pedestrian, bicycle, and public transit users.
 {{< /timelineItem >}}
 <!-- HSH -->
 
@@ -215,13 +213,13 @@ Took a year off to travel the country with my wife and develop an off-grid prope
           <td rowspan=2><img class="customEntitityLogo" src="iw.png"/></td>
           <td>Infraworks</td>
       </tr>
-    </tbody>
+    <!-- </tbody>
         <tbody>
       <tr>
           <td rowspan=2><img class="customEntitityLogo" src="bw.webp"/></td>
           <td>BeyondCAD</td>
       </tr>
-    </tbody>
+    </tbody> -->
         <tbody>
       <tr>
           <td rowspan=2><img class="customEntitityLogo" src="hc.png"/></td>
@@ -242,39 +240,87 @@ Took a year off to travel the country with my wife and develop an off-grid prope
     </tbody>
 </table>
 
-
 ## Skills
-### Technical 
-* roadway design
-  * complex corridor modelling
-  * complete streets/multimodal transportation design
-  * ADA 
-* site design
-* subdivision 
-* feasiblity studieies/zoning analysis
-* grading
-* stormwater management
-  * subsurface system design
-* utility design
-  * sewer, incl pumps
-  * profiles
-* 3d visualizations
-* cost estimating
-* special provision writing
-* technical memo writing 
+### Roadway Design
+* Experience designing:
+  * Roundabouts
+  * Intersections
+  * Highway entrance and exit ramps
+  * Local, collector, and arterial roads
+  * On and off road bicycle facilities 
+  * Complete streets / multimodal transportation design
+  * Raised crossings and intersections 
+  * On street parking facilities 
+* ADA compliant design for sidewalks, bus stops, and pedestrian ramps 
+* AASHTO Greenbook complaint design
+  * Design speed
+  * Horizontal and vertical alignments
+  * Sight distance
+  * Design vehicles, turning movements with AutoTURN
+* Roadside Design Guide compliant design
+  * Roadside and median barriers
+  * Workzone safety 
+  * Clear zones 
+  * Country drainage 
+  * Erosion control
+* MUTCD, familiar with 
+  * Signage, pavement markings, temporary traffic control measures 
+* Utilities 
+  * Catch basin relocation
+  * Identifying, modifying or designing around existing conflicts with surface level utility covers, small cell antennas, underground telecom lines or vaults, gas lines, etc. 
+  * Relocating utility poles, light poles, handholes, conduit, etc. 
+* Corridor modelling in Civil 3D
+* 3D project visualization using Infraworks 
+* Environmental checklists 
+* Cost estimating
+* Special provision writing
+* Technical memo writing 
 
-### soft 
-* excellent communication
-* verbal and written
-  * clients
-    * managing expecttations
-  - internal teams
-    - traffic 
-    - construction
-  - external consultants 
-    - architects
-    - srveryors
-    - environmental scientists 
-* technical understanding of pavement markings, traffic signals, temporary traffic control, construction processes 
-  * provides ability to collaborate with traffic and construction teams to avoid design conflicts 
-
+### Site Design
+* Experience designing:
+  * Residential lots - multi and single family
+  * Subdivisions
+  * Commercial properties
+  * Parking lots
+  * Solar farms
+  * Affordable housing developments (40B in MA)
+  * Senior living facilities
+  * Condominium complexes
+  * Municipal parks 
+  * Industrial - cement concrete mixing plant
+  * Self storage units 
+* Feasibility studies/zoning analysis
+* Grading and drainage plans
+* Demolition and erosion control plans
+* Stormwater management
+  * Existing vs proposed modelling and analysis in HydroCAD
+  * Stormwater report writing
+  * Subsurface system design
+  * Design of retention and detention ponds, swales, tree boxes, rain gardens, and proprietary treatment chambers
+* Extensive experience with work near environmentally sensitive areas; such as, wetlands, riverfront, floodzones, and floodways
+  * Local, state and federal permitting
+  * Floodplain reclamation 
+* Utility plans & profiles
+  * Sewer design, including pumps
+  * Water line connections
+  * Stormwater overflows to the street 
+  * Some septic system design 
+  
+### Project Management  
+* Review unbilleds, coordinate with accounting on invoices and project expenses 
+* Track team member hours and budget 
+* Writing scopes and estimating fees for proposals 
+* Developing project schedules
+* Strict adherence to deadlines, and continual updates on progress to project stakeholders 
+* Experience working on fixed fee and time and material projects 
+* Ability to manage client expectations when scope creep happens 
+* Understanding of how a professional services company makes money 
+* Excellent verbal and written communication 
+* Clear coordination and delegation amongst project teams 
+* Organize concise and focused meetings 
+* Experience managing multiple projects simultaneously
+* Ability to prioritize and use effective time management techniques  
+* Structured maintenance of project file folders, team documents, and assurance of cleanly drafted plans 
+* Understanding of multidisciplinary roles within a project team. I have worked with traffic, construction, survey, graphics/marketing, and accounting teams internally, as well as, architects, surveyors, and environmental scientists externally.
+* Have been the design lead on private mitigation projects
+* Have managed projects with municipal and state clients 

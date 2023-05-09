@@ -8,7 +8,7 @@ description: "Kyle Malloy, PE Freelance Civil Engineer"
   tag=h5
   speed=35
 >}}
-I'm currently accepting part-time work.
+I'm currently accepting part-time remote work.
 {{< /typeit >}}
 {{< /alert >}}
 
