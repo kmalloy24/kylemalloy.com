@@ -14,12 +14,12 @@ sharingLinks: false
 ---
 
 {{< lead >}}
-Updated on May 9<sup>th</sup>, 2023
+Updated on May 16<sup>th</sup>, 2023
 {{< /lead >}}
 
 ## Civil Engineering 
 
-{{< icon "km" >}} Accepting new clients as a part-time, remote, freelancer.
+{{< icon "km" >}} Working part-time, remote.
 
 
 ## Programming
@@ -29,9 +29,11 @@ Updated on May 9<sup>th</sup>, 2023
 
 ## Outside of Work
 
-⚒️ Various DIY projects on our off grid property in Far West Texas.
+<!-- ⚒️ Various DIY projects on our off grid property in Far West Texas.
 
-📖 Attempting to finish a book every 1-2 weeks.
+📖 Attempting to finish a book every 1-2 weeks. -->
+
+🚐 Traveling across the eastern US for most of the summer. 
 
 🧘🏼‍♂️🌿💪🏼 Building daily habits for longevity.
 

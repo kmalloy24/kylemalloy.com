@@ -21,3 +21,7 @@ Our travels landed us in Far West Texas, where we now live off-grid with our dog
 My favorite colors for new layers in CAD are {{< icon "140" >}} 140 & {{< icon "101" >}} 101.
 
 ![image](about.webp)
+
+---
+
+*Thanks to [Nuno Coração](https://nunocoracao.com/) for building [Blowfish](https://blowfish.page/)! The free [Hugo](https://gohugo.io/) theme used to build this site. Find an issue? [Let me know on GitHub.](https://github.com/kmalloy24/kylemalloy.com)*

@@ -16,29 +16,6 @@ showHero: false
 ## Work Experience 
 
 {{< timeline >}}
-<!-- KM -->
-{{< timelineItem icon="km" header="KM Engineering" badge="Current" subheader="CEO, Freelance Civil Engineer" >}}
-{{< icon "location-dot" >}} Remote <br>
-<ul>
-  <li>Providing roadway and site design services, directly to consultants and agencies, on a task-by-task basis, or by retainer for up to 3 months.</li>
-  <!-- <li>Developing practical <a href="/blog">training courses</a> for civil engineers</li>
-  <li><a href="/blog">Writing</a> about intersections between Civil Engineering and Programming</li> -->
-  <li>Built this website using 
-  {{< icon "hugo" >}}
-  {{< icon "blowfish" >}}
-  {{< icon "github" >}} 
-  {{< icon "md" >}}
-  {{< icon "html5" >}}
-  {{< icon "css3" >}}
-  {{< icon "tailwind" >}}
-  {{< icon "inkscape" >}}
-  {{< icon "gimp" >}}
-
-  </li>
-</ul>
-
-{{< /timelineItem >}}
-<!--KM -->
 
 <!-- CIVSOFT -->
 {{< timelineItem icon="civsoft-w" header="CivSoft" badge="Current" subheader="CTO, Co-Founder" >}}
@@ -46,6 +23,20 @@ showHero: false
 Founded with my wife, Chandler, we are developing software that provides value by improving workflows and giving civil engineers more time back in their day.
 {{< /timelineItem >}}
 <!-- CIVSOFT -->
+
+<!-- HSH -->
+{{< timelineItem icon="work" header=" " badge="Current" >}}
+<img src="hsh.png" class="customEntitityLogo"/>
+<h2>Howard Stein Hudson</h2>
+<h4>Oct 2018 - Current · 4 yrs 8 mos</h4>
+{{< icon "location-dot" >}} Remote (2020-2022)
+{{< icon "location-dot" >}} Boston, MA (2018-2020) <br> 
+<h3>Civil Engineer, Part-Time (Apr 2022 - Current)</h3>
+Working remotely on a task-by-task basis.<br>
+<h3>Civil Engineer (Oct 2018 - Apr 2022)</h3>
+As a roadway design engineer in the public Infrastructure department, I developed plans, performed technical analysis/documentation, and cost estimates, for private and municipal clients. Depending on the project, designs considered accommodations for vehicular, pedestrian, bicycle, and public transit users.
+{{< /timelineItem >}}
+<!-- HSH -->
 
 <!-- VAN -->
 {{< timelineItem icon="van">}}
@@ -83,20 +74,6 @@ Took a year off to travel the country with my wife and develop an off-grid prope
 </ul>
 {{< /timelineItem >}}
 <!-- VAN -->
-
-<!-- HSH -->
-{{< timelineItem icon="work">}}
-<img src="hsh.png" class="customEntitityLogo"/>
-<h2>Howard Stein Hudson</h2>
-<h4>Oct 2018 - Current · 4 yrs 8 mos</h4>
-{{< icon "location-dot" >}} Remote (2020-2022)
-{{< icon "location-dot" >}} Boston, MA (2018-2020) <br> 
-<h3>Civil Engineer, Part-Time (Apr 2022 - Current)</h3>
-Working remotely on a task-by-task basis.<br>
-<h3>Civil Engineer (Oct 2018 - Apr 2022)</h3>
-As a roadway design engineer in the public Infrastructure department, I developed plans, performed technical analysis/documentation, and cost estimates, for private and municipal clients. Depending on the project, designs considered accommodations for vehicular, pedestrian, bicycle, and public transit users.
-{{< /timelineItem >}}
-<!-- HSH -->
 
 <!-- GPR -->
 {{< timelineItem icon="work" >}}
