@@ -2,6 +2,7 @@
 title: "Resume"
 description: "Resume"
 slug: "resume"
+date: 2023-07-02
 
 showPagination : false
 showLikes: false
@@ -18,10 +19,10 @@ showHero: false
 {{< timeline >}}
 
 <!-- CIVSOFT -->
-{{< timelineItem icon="civsoft-w" header="CivSoft" badge="Current" subheader="CTO, Co-Founder" >}}
+<!-- {{< timelineItem icon="civsoft-w" header="CivSoft" badge="Current" subheader="CTO, Co-Founder" >}}
 {{< icon "location-dot" >}} Remote <br> <br>
 Founded with my wife, Chandler, we are developing software that provides value by improving workflows and giving civil engineers more time back in their day.
-{{< /timelineItem >}}
+{{< /timelineItem >}} -->
 <!-- CIVSOFT -->
 
 <!-- HSH -->
@@ -32,7 +33,7 @@ Founded with my wife, Chandler, we are developing software that provides value b
 {{< icon "location-dot" >}} Remote (2020-2022)
 {{< icon "location-dot" >}} Boston, MA (2018-2020) <br> 
 <h3>Civil Engineer, Part-Time (Apr 2022 - Current)</h3>
-Working remotely on a task-by-task basis.<br>
+Working remotely on a part-time basis.<br>
 <h3>Civil Engineer (Oct 2018 - Apr 2022)</h3>
 As a roadway design engineer in the public Infrastructure department, I developed plans, performed technical analysis/documentation, and cost estimates, for private and municipal clients. Depending on the project, designs considered accommodations for vehicular, pedestrian, bicycle, and public transit users.
 {{< /timelineItem >}}

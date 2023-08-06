@@ -14,32 +14,46 @@
   name = "Resume"
   title = "Resume"
   pageRef = "resume"
-  weight = 10
+  weight = 1
 
 [[main]]
-  name = "Contact"
-  title = "Contact"
-  pageRef = "Contact"
-  weight = 20
+name = "Blog"
+title = "Blog"
+pageRef = "blog"
+weight = 10
 
-[[main]]
-  name = "About"
-  title = "About"
-  pageRef = "about"
-  weight = 30
+# [[main]]
+#   name = "Info"
+#   title = "Info"
+#   weight = 20
 
-[[main]]
-  name = "Now"
-  title = "Now"
-  pageRef = "now"
-  weight = 40
+# [[main]]
+#   name = "Contact"
+#   title = "Contact"
+#   pageRef = "Contact"
+#   parent = "Info"
+#   weight = 20
 
-[[main]]
-  identifier = "civsoft"
-  name = "CivSoft"
-  pre = "civsoft"
-  url = "https://civsoft.app/"
-  weight = 50
+# [[main]]
+#   name = "About"
+#   title = "About"
+#   pageRef = "about"
+#   parent = "Info"
+#   weight = 30
+
+# [[main]]
+#   name = "Now"
+#   title = "Now"
+#   pageRef = "now"
+#   parent = "Info"
+#   weight = 40
+
+# [[main]]
+#   identifier = "civsoft"
+#   name = "CivSoft"
+#   pre = "civsoft"
+#   url = "https://civsoft.app/"
+#   weight = 50
 
 # -- Subnav Menu --
 # Displayed below main
