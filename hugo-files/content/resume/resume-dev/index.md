@@ -73,46 +73,80 @@ showHero: false
 I have experience working with the following web technologies.
 
 ### Languages 
-{{< gallery >}}
-  <img src="gallery/html.jpg" class="customEntitityLogo"/>
-  <img src="gallery/css.jpg" class="customEntitityLogo"/>
-  <img src="gallery/js.png" class="customEntitityLogo"/>
-  <img src="gallery/ts.png" class="customEntitityLogo"/>
-  <img src="gallery/md.png" class="customEntitityLogo"/>
-{{< /gallery >}}
+<table>
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td><img class="customEntitityLogo" src="gallery/html.png" alt="html"/></td>
+          <td><img class="customEntitityLogo" src="gallery/css.png" alt="css"/></td>
+          <td><img class="customEntitityLogo" src="gallery/js.png" alt="javascript"/></td>
+          <td><img class="customEntitityLogo" src="gallery/ts.png" alt="typescript"/></td>
+          <td><img class="customEntitityLogo" src="gallery/md.png" alt="markdown"/></td>
+      </tr>
+    </tbody>
+</table>
 
 ### Front-end
-{{< gallery >}}
-  <img src="gallery/svelte.png" class="customEntitityLogo"/>
-  <img src="gallery/skit.png" class="customEntitityLogo"/>
-  <img src="gallery/astro.svg" class="customEntitityLogo"/>
-  <img src="gallery/hugo.svg" class="customEntitityLogo"/>
-  <img src="gallery/tailwind.png" class="customEntitityLogo"/>
-{{< /gallery >}}
+<table>
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td><img class="customEntitityLogo" src="gallery/svelte.png" alt="svelte"/></td>
+          <td><img class="customEntitityLogo" src="gallery/skit.png" alt="sveltekit"/></td>
+          <td><img class="customEntitityLogo" src="gallery/astro.svg" alt="astrojs"/></td>
+          <td><img class="customEntitityLogo" src="gallery/hugo.svg" alt="hugo"/></td>
+          <td><img class="customEntitityLogo" src="gallery/tailwind.png" alt="tailwindcss"/></td>
+      </tr>
+    </tbody>
+</table>
 
 ### Back-end
-{{< gallery >}}
-  <img src="gallery/node.png" class="customEntitityLogo" />
-  <img src="gallery/postgres.png" class="customEntitityLogo" />
-  <img src="gallery/supa.jpg" class="customEntitityLogo" />
-  <img src="gallery/firebase.png" class="customEntitityLogo" />
-{{< /gallery >}}
+<table>
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td><img class="customEntitityLogo" src="gallery/node.png" alt="nodejs"/></td>
+          <td><img class="customEntitityLogo" src="gallery/postgres.png" alt="postgresql"/></td>
+          <td><img class="customEntitityLogo" src="gallery/supa.png" alt="supabase"/></td>
+          <td><img class="customEntitityLogo" src="gallery/firebase.png" alt="firebase"/></td>
+      </tr>
+    </tbody>
+</table>
 
 ### Libraries & Tools
-{{< gallery >}}
-  <img src="gallery/git.png" class="customEntitityLogo" />
-  <img src="gallery/github.png" class="customEntitityLogo" />
-  <img src="gallery/vite.jpg" class="customEntitityLogo" />
-  <img src="gallery/vercel.png" class="customEntitityLogo" />
-  <img src="gallery/chart.png" class="customEntitityLogo" />
-  <img src="gallery/reveal.png" class="customEntitityLogo" />
-  <img src="gallery/daisy.png" class="customEntitityLogo" />
-  <img src="gallery/skeleton.png" class="customEntitityLogo" />
-  <!-- <img src="gallery/zod.svg" class="customEntitityLogo" />
-  <img src="gallery/super.svg" class="customEntitityLogo" /> -->
-{{< /gallery >}}
+<table>
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td><img class="customEntitityLogo" src="gallery/git.png" alt="git"/></td>
+          <td><img class="customEntitityLogo" src="gallery/github.png" alt="github"/></td>
+          <td><img class="customEntitityLogo" src="gallery/vite.png" alt="vite"/></td>
+          <td><img class="customEntitityLogo" src="gallery/vercel.png" alt="vercel"/></td>
+          <td><img class="customEntitityLogo" src="gallery/chart.png" alt="chartjs"/></td>
+      </tr>
+      <tr>
+          <td><img class="customEntitityLogo" src="gallery/reveal.png" alt="revealjs"/></td>
+          <td><img class="customEntitityLogo" src="gallery/daisy.png" alt="daisyui"/></td>
+          <td><img class="customEntitityLogo" src="gallery/skeleton.png" alt="skeletonui"/></td>
+      </tr>
+    </tbody>
+</table>
 
 <!-- future 
+-zod
+-superforms
 - D3
 - threejs -->
 
