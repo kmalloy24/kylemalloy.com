@@ -11,10 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Resume"
-  title = "Resume"
-  pageRef = "resume"
-  weight = 1
+name = "Experience"
+title = "Experience"
+pageRef = "resume"
+weight = 1
+
+  [[main]]
+  name = "Civil Engineering"
+  title = "Civ Eng Resume"
+  pageRef = "resume-civ"
+  parent = "Experience"
+  weight = 2
+    
+  [[main]]
+  name = "Web Development"
+  title = "Dev Resume"
+  pageRef = "resume-dev"
+  parent = "Experience"
+  weight = 3
 
 [[main]]
 name = "Blog"
@@ -25,13 +39,6 @@ weight = 10
 # [[main]]
 #   name = "Info"
 #   title = "Info"
-#   weight = 20
-
-# [[main]]
-#   name = "Contact"
-#   title = "Contact"
-#   pageRef = "Contact"
-#   parent = "Info"
 #   weight = 20
 
 # [[main]]
@@ -68,19 +75,18 @@ weight = 10
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+ [[footer]]
+   name = "kyle@malloy.dev"
+   title = "email"
+   url = "mailto:kyle@malloy.dev"
+   weight = 10
+
 #  [[footer]]
 #    name = "Tags"
 #    pageRef = "tags"
-#    weight = 10
+#    weight = 20
 
 #  [[footer]]
 #    name = "Categories"
-#    pageRef = "categories"
+#    pageRef = "tags"
 #    weight = 20
-
-
-
-
-
-
-

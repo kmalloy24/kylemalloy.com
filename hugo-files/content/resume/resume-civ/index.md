@@ -1,8 +1,8 @@
 ---
-title: "Resume"
-description: "Resume"
-slug: "resume"
-date: 2023-07-02
+title: "👷‍♂️ Civil Engineering Resume"
+description: "Civil Engineering Resume"
+slug: "resume-civ"
+date: 2023-08-21
 
 showPagination : false
 showLikes: false
@@ -14,16 +14,17 @@ sharingLinks: false
 showHero: false
 ---
 
+## Projects
+
+{{< alert cardColor="#7A889D" iconColor="#AAFFBF" textColor="#f1faee" >}} A few of my projects are featured below. A complete list is in progress
+[here.]({{< ref "/projects" >}} "Projects")
+{{< /alert >}}
+<br>
+{{< article link="/projects/tremont/" >}}
+
 ## Work Experience 
 
 {{< timeline >}}
-
-<!-- CIVSOFT -->
-<!-- {{< timelineItem icon="civsoft-w" header="CivSoft" badge="Current" subheader="CTO, Co-Founder" >}}
-{{< icon "location-dot" >}} Remote <br> <br>
-Founded with my wife, Chandler, we are developing software that provides value by improving workflows and giving civil engineers more time back in their day.
-{{< /timelineItem >}} -->
-<!-- CIVSOFT -->
 
 <!-- HSH -->
 {{< timelineItem icon="work" header=" " badge="Current" >}}
@@ -53,10 +54,10 @@ Took a year off to travel the country with my wife and develop an off-grid prope
   <img src="gallery/05.webp" class="grid-w33" />
 {{< /gallery >}}
 <ul>
-  <li>🌎 2 countries, 11 states</li>
-  <li>🏞️ 23 national parks</li>
-  <li>🥾 71 trails</li>
-  <li>🚐 12,000 miles</li>
+  <li>🌎 3 countries, 16 states</li>
+  <li>🏞️ 27 national parks</li>
+  <li>🥾 80+ trails</li>
+  <li>🚐 15,000+ miles</li>
   <li>🐶 1 dog adopted</li>
 </ul>
 <h3>Off-Grid</h3>

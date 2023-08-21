@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = ""
+title = "Kyle Malloy, PE"
 logo = "img/logo.webp"
-description = "Kyle Malloy, PE"
+description = "Civil Engineer | Web Developer"
 copyright = "© 2023 Kyle Malloy"
 
 dateFormat = "2 January 2006"
@@ -15,12 +15,12 @@ dateFormat = "2 January 2006"
 [author]
   name = "Kyle Malloy, PE"
   image = "img/avatar.webp"
-  headline = "Civil Engineer" 
+  headline = "Civil Engineer | Web Developer" 
   bio = "Civil Engineer"
   links = [
     { email = "mailto:kyle@malloy.dev" },
     { linkedin = "https://linkedin.com/in/malloykyle" },
     # { twitter = "https://twitter.com/kylemalloype" },
     # { mastodon = "https://mastodon.social/@kylemalloy" },
-    # { github = "https://github.com/kmalloy24" },
+    { github = "https://github.com/kmalloy24" },
   ]
