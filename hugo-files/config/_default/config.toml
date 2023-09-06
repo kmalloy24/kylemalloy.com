@@ -15,7 +15,7 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
-googleAnalytics = "G-9R83D81J6T"
+googleAnalytics = ""
 
 [params]
   custom_css = ["css/custom.css"]

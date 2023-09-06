@@ -20,6 +20,8 @@ showHero: false
 {{< /alert >}}
 <br>
 {{< article link="/projects/linktree/" >}}
+<br>
+{{< article link="/projects/specs/" >}}
 
 <table>
     <thead>
