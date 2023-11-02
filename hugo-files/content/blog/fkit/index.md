@@ -3,7 +3,7 @@ title: "Fireship FKIT Course Notes"
 description: "notes from fireship.io sveltekit course"
 slug: "FKIT"
 date: 2023-08-06
-tags: ["programming", "svelte", "course-notes", "firebase", "tailwind"]
+tags: ["web-dev", "svelte", "course-notes", "firebase", "tailwind"]
 ---
 I recently completed the [Sveltekit Full Course](https://fireship.io/courses/sveltekit/) from [Fireship.io](https://fireship.io) where you build a [Linktree](https://linktr.ee) clone using [Sveltekit](https://kit.svelte.dev/), [Firebase](https://firebase.google.com/),[Tailwind](https://tailwindui.com/), and [Daisy UI](https://daisyui.com/). 
 
@@ -157,3 +157,7 @@ module.exports = {
   },
 }
 ```
+
+---
+
+*Image Credit: [Fireship](https://fireship.io)*

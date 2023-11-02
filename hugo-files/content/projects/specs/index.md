@@ -2,7 +2,7 @@
 title: "Specs Living Document"
 description: "Specs Living Document"
 slug: "specs"
-tags: ["astro"]
+tags: ["web-dev", "astro", "tailwind"]
 showDate: false
 showReadingTime: false
 showTableOfContents: false

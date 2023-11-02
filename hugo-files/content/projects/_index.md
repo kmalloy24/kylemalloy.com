@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "💼 Projects"
 description: "Projects"
 
 cascade:
@@ -11,8 +11,12 @@ cascade:
   showReadingTime: false
 ---
 
+{{< alert cardColor="#7A889D" iconColor="#AAFFBF" textColor="#f1faee">}}
+This page is a work in progress 🏗️
+{{< /alert >}}
+
 {{< lead >}}
-🏗️ This page is a work in progress.
+A mix of civil engineering & programming projects I've worked on professionally and on my own time.
 {{< /lead >}}
 
 ---

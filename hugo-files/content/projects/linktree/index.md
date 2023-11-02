@@ -2,7 +2,7 @@
 title: "Linktree Clone"
 description: "Linktree Clone"
 slug: "linktree"
-tags: ["svelte", "firebase", "tailwind"]
+tags: ["web-dev", "svelte", "firebase", "tailwind", "typescript"]
 showDate: false
 showReadingTime: false
 showTableOfContents: false

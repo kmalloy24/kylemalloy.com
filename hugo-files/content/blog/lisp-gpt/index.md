@@ -3,7 +3,7 @@ title: "Writing AutoLISP With ChatGPT"
 description: "Writing AutoLISP With ChatGPT"
 slug: "LISP-GPT"
 date: 2023-04-25
-tags: ["chatgpt", "lisp", "autocad"]
+tags: ["civ-eng", "chatgpt", "lisp", "autocad"]
 ---
 
 ## Prompt

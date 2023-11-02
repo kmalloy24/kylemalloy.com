@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Experience"
-title = "Experience"
+name = "Resume"
+title = "Resume"
 pageRef = "resume"
 weight = 1
 
@@ -20,15 +20,27 @@ weight = 1
   name = "Civil Engineering"
   title = "Civ Eng Resume"
   pageRef = "resume-civ"
-  parent = "Experience"
+  parent = "Resume"
   weight = 2
     
   [[main]]
   name = "Web Development"
   title = "Dev Resume"
   pageRef = "resume-dev"
-  parent = "Experience"
+  parent = "Resume"
   weight = 3
+  
+[[main]]
+name = "Projects"
+title = "Projects"
+pageRef = "projects"
+weight = 5
+
+[[main]]
+name = "Tools"
+title = "Tools"
+pageRef = "tools"
+weight = 6
 
 [[main]]
 name = "Blog"
@@ -82,11 +94,11 @@ weight = 20
 # the copyright notice. Configure as per the main menu above.
 
 #  [[footer]]
-#    name = "Tags"
+#    name = "🏷️ Tags"
 #    pageRef = "tags"
 #    weight = 20
 
 #  [[footer]]
 #    name = "Categories"
-#    pageRef = "tags"
+#    pageRef = "categories"
 #    weight = 20
